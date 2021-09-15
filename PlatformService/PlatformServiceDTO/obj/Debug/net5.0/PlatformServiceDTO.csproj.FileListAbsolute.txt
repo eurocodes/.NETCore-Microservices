@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\bin\Debug\net5.0\PlatformServiceDTO.deps.json
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\bin\Debug\net5.0\PlatformServiceDTO.dll
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\bin\Debug\net5.0\ref\PlatformServiceDTO.dll
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\bin\Debug\net5.0\PlatformServiceDTO.pdb
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\obj\Debug\net5.0\PlatformServiceDTO.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\obj\Debug\net5.0\PlatformServiceDTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\obj\Debug\net5.0\PlatformServiceDTO.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\obj\Debug\net5.0\PlatformServiceDTO.AssemblyInfo.cs
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\obj\Debug\net5.0\PlatformServiceDTO.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\obj\Debug\net5.0\PlatformServiceDTO.dll
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\obj\Debug\net5.0\ref\PlatformServiceDTO.dll
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformServiceDTO\obj\Debug\net5.0\PlatformServiceDTO.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ACfbnWCO6JznGtOOkFGighvYI2ZEvgwz7CG85TvfjHpfjDbSqtb3zwY7HclLV9xmwbHyHssuv1lBY/0smxREnw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Ugee\\LearnAndDo\\.NetMicroServices\\PlatformService\\SyncDataServices\\SyncDataServices.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

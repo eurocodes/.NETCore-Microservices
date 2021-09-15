@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\bin\Debug\net5.0\PlatformServiceDTO.dll
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\obj\Debug\net5.0\SyncDataServices.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\obj\Debug\net5.0\SyncDataServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\obj\Debug\net5.0\SyncDataServices.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\obj\Debug\net5.0\SyncDataServices.AssemblyInfo.cs
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\bin\Debug\net5.0\SyncDataServices.deps.json
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\bin\Debug\net5.0\SyncDataServices.dll
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\bin\Debug\net5.0\ref\SyncDataServices.dll
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\bin\Debug\net5.0\SyncDataServices.pdb
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\bin\Debug\net5.0\PlatformServiceDTO.pdb
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\obj\Debug\net5.0\SyncDataServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\obj\Debug\net5.0\SyncDataServices.csproj.CopyComplete
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\obj\Debug\net5.0\SyncDataServices.dll
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\obj\Debug\net5.0\ref\SyncDataServices.dll
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\SyncDataServices\obj\Debug\net5.0\SyncDataServices.pdb
