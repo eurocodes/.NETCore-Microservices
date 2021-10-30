@@ -70,3 +70,4 @@ C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformSe
 C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformService\bin\Debug\net5.0\SyncDataServices.dll
 C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformService\bin\Debug\net5.0\SyncDataServices.pdb
 C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformService\bin\Debug\net5.0\PlatformServiceDTO.pdb
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\PlatformService\bin\Debug\net5.0\appsettings.Production.json

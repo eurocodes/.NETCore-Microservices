@@ -9,4 +9,6 @@ C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\Data\obj\D
 C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\Data\obj\Debug\net5.0\PlatformData.dll
 C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\Data\obj\Debug\net5.0\ref\PlatformData.dll
 C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\Data\obj\Debug\net5.0\PlatformData.pdb
-C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\Data\obj\Debug\net5.0\PlatformData.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\Data\bin\Debug\net5.0\PlatformData.runtimeconfig.json
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\Data\bin\Debug\net5.0\PlatformData.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Ugee\LearnAndDo\.NetMicroServices\PlatformService\Data\obj\Debug\net5.0\PlatformData.genruntimeconfig.cache
